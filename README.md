@@ -1,11 +1,5 @@
 # PTQM: Perceptual Talking Quality Model
 
-Official implementation of the paper:
-
-**Objective Speaking Quality Assessment from Psychoacoustic Disturbance Maps**
-
-Tuğçe Koçak Büyüktas, Eero Kaan, Robert P. Spang, Sebastian Möller
-
 
 ## Overview
 
