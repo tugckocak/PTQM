@@ -1,8 +1,5 @@
 # PTQM: Perceptual Talking Quality Model
 
-
-## Overview
-
 PTQM is an objective model for predicting the speaking-quality dimensions defined in ITU-T Recommendation P.804:
 
 - Impact of one's own voice on speaking (IOS)
